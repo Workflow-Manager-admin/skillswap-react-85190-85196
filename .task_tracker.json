@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for SkillSwap React', 'description': 'Primary container for SkillSwap React implementation: I want to build a frontend-only web application using React.js called SkillSwap. The app should allow users to offer their skills (e.g., “I can teach Excel”) and request skills they want to learn (e.g., “Looking for logo design help”). The goal is to simulate skill trading between users using local state and no backend.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
